@@ -11,3 +11,7 @@
     margin: 0.5em;
     flex-basis: 10%;
 }
+
+.pageHeader {
+    text-align: center;
+}
